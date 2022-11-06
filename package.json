@@ -6,8 +6,13 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.3.2",
+    "gray-matter": "^4.0.3",
     "next": "latest",
     "react": "lates",
     "react-dom": "latest"
+  },
+  "devDependencies": {
+    "sass": "^1.55.0"
   }
 }
